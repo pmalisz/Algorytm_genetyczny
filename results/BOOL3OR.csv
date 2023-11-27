@@ -1,0 +1,999 @@
+-0.1, program{ v0=41; if(80-!23){ v0=51||15||v0; }out(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(!v3*v1){ in(v4); }if(45<29+1-54){ if(v0*v0*73){ if(94==50){ in(v0); in(v1); }}out(1); }}
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ v0=41; if(80-!23){ v0=51||15||v0; }out(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ v0=41; if(80-!23){ v0=51||15||v0; }out(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ out(1); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); while(v0/4>1){ while(51||19||62){ out(v1); }}if(57+v2!=49*v0<v2){ v0=23-v0!=1; }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ v0=41; if(80-!23){ v0=51||15||v0; }out(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ v3=v3<36; out(1); v1=43; in(v2); in(v1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ while(v1*v0){ v3=v3<36; }if(1-73){ v1=v1==95<51; v0=22!=4; }v1=27; out(v0); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v1||v1!=v1*v2){ out(19); }if(1-73){ v1=v1==95<51; v0=22!=4; }v1=27; out(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v1||v1!=v1*v2){ out(19); }if(1-73){ v1=v1==95<51; v0=22!=4; }v1=27; out(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; out(1); v1=43; in(v2); in(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); while(v0/4>1){ while(51||19||62){ out(v1); }}if(57+v2!=49*v0<v2){ v0=23-v0!=1; }}
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ if(v0!=36||33-v2){ in(v1); }if(92/77==v1){ v1=12+v0; }v2=36/22; out(v2); v1=v1!=v1; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ if(41<51!=v0||23){ while(v1||v1!=v1*v2){ out(19); }out(v1); }v3=v0==67==v4/v5; if(85-v1==v0||v0==46>48/79){ v6=v5; }out(v3); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(!v2){ v2=!78==v1>v3; in(v1); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v1); out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(!v2){ v2=!78==v1>v3; in(v1); }out(1); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v1); out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v1); out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); v0=99+61<55*v0; in(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v1); out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); while(v0/4>1){ while(51||19||62){ out(v1); }}if(57+v2!=49*v0<v2){ v0=23-v0!=1; }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); while(v0/4>1){ while(51||19||62){ out(v1); }}if(57+v2!=49*v0<v2){ v0=23-v0!=1; }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ while(v0-v1+v2){ if(v2&&38*80){ in(v3); }}if(!v2){ v2=!78==v1>v3; in(v1); }out(v2); v1=20; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v2&&38*80){ in(v3); }out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); while(v0/4>1){ while(51||19||62){ out(v1); }}if(57+v2!=49*v0<v2){ v0=23-v0!=1; }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); while(v0/v0!=32/v1){ v0=v2&&13<v2-v0; }}
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); while(v0/4>1){ while(51||19||62){ out(v1); }}if(57+v2!=49*v0<v2){ v0=23-v0!=1; }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ if(v0!=36||33-v2){ in(v1); }while(v1*70!=v0==19){ in(v3); }out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); v0=79/v1>79*97; }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}v0=99<v0>v1&&34<76; in(v1); out(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ in(v0); if(33-v0||v1*v1){ out(1); if(v0!=36||33-v2){ in(v1); }}while(v0>28&&71&&28||v2){ while(v1*v0){ v3=v3<36; }}in(v4); }
+-0.1, program{ v1=!v0<57&&v2; out(1); in(v1); in(v0); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ v3=v3<36; v1=!v0<57&&v2; in(v3); out(v1); }
+-0.1, program{ out(1); in(v0); while(49<v1){ out(6); }}

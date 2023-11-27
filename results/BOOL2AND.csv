@@ -1,0 +1,5 @@
+-0.1, program{ out(v0); }
+-0.1, program{ out(v0); }
+-0.1, program{ out(v0); }
+-0.1, program{ out(v0); }
+-0.0, program{ in(v0); in(v1); v0=v1-v0<v1; if(59*2){ out(v0); while(v1||v1){ v2=89>v2; }}}

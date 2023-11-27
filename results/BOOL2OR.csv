@@ -1,0 +1,135 @@
+-0.1, program{ if(100<23*v0||51-23){ in(v1); out(v1); }}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ if(100<23*v0||51-23){ in(v1); out(v1); }}
+-0.1, program{ in(v1); in(v1); out(v1); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ v0=33!=9&&79<97||95; out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ v0=33!=9&&79<97||95; out(v0); }
+-0.1, program{ v0=33!=9&&79<97||95; out(v0); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ if(31+v0==9-84!=52*83==v0){ in(v1); out(v1); }if(87>8){ in(v0); in(v2); }}
+-0.1, program{ if(91+40!=22<55){ in(v0); }out(v0); }
+-0.1, program{ in(v0); out(v0); if(v0/v1||14-v0!=51){ in(v1); if(5&&27){ while(1==v0){ out(83); }}}}
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(v3+31||63||v1+v1){ out(v0); if(v1*v2){ v1=v4; out(55); }}in(v4); }
+-0.1, program{ in(v0); out(v0); if(v0/v1||14-v0!=51){ in(v1); if(5&&27){ while(1==v0){ out(83); }}}}
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); out(v0); if(v0/v1||14-v0!=51){ in(v1); if(5&&27){ while(1==v0){ out(83); }}}}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ v0=33!=9&&79<97||95; out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); while(v1/v1>v2<v0<87){ if(v3&&31){ out(5); }}out(v0); in(v4); while(v4*v1+v5/59){ while(9==v1){ while(45-48){ in(v4); }}}}
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ if(100<23*v0||51-23){ in(v1); out(v1); }}
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ out(1); }
+-0.1, program{ if(100<23*v0||51-23){ in(v1); out(v1); }}
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); if(v0/v1||14-v0!=51){ in(v1); if(5&&27){ while(1==v0){ out(83); }}}}
+-0.1, program{ in(v0); out(v0); if(v0/v1||14-v0!=51){ in(v1); if(5&&27){ while(1==v0){ out(83); }}}}
+-0.1, program{ out(1); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ out(1); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ in(v0); while(v1/v1>v2<v0<87){ if(v3&&31){ out(5); }}out(v0); in(v4); while(v4*v1+v5/59){ while(9==v1){ while(45-48){ in(v4); }}}}
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); while(v1/v1>v2<v0<87){ if(v3&&31){ out(5); }}out(v0); in(v4); while(v4*v1+v5/59){ while(9==v1){ while(45-48){ in(v4); }}}}
+-0.1, program{ in(v0); in(v1); out(v1); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ if(100<23*v0||51-23){ in(v1); out(v1); }}
+-0.1, program{ out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); out(v0); v0=v0; }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); if(!v0/32){ out(27); out(v0); }out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ out(1); if(v1+v2/16-v3){ v2=v1; }}
+-0.1, program{ in(v0); out(v0); v0=v0; }
+-0.1, program{ in(v0); while(v1/v1>v2<v0<87){ if(v3&&31){ out(5); }}out(v0); in(v4); while(v4*v1+v5/59){ while(9==v1){ while(45-48){ in(v4); }}}}
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ if(100<23*v0||51-23){ in(v1); out(v1); }}
+-0.1, program{ in(v0); v0=!!v0; in(v0); out(v0); while(v0<87||v1+51-v0!=61){ in(v1); }}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); v0=v0; }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); v0=v0; }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); while(v1/v1>v2<v0<87){ if(v3&&31){ out(5); }}out(v0); in(v4); while(v4*v1+v5/59){ while(9==v1){ while(45-48){ in(v4); }}}}
+-0.1, program{ v0=44!=v0<v0; v1=v0; out(v0); }
+-0.1, program{ in(v1); in(v1); out(v1); while(50<16*50<47!=22){ while(v1>v1+98*47){ v0=18; }}}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); if(95>12||83==84){ while(71+38){ if(v0*26){ out(40); }}}in(v1); out(v1); }
+-0.1, program{ if(100<23*v0||51-23){ in(v1); out(v1); }}
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); if(87>51>10&&16){ out(v3); }out(1); }
+-0.1, program{ out(1); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); if(95>12||83==84){ while(71+38){ if(v0*26){ out(40); }}}in(v1); out(v1); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ in(v0); out(v0); }
+-0.1, program{ if(4/v0-22!=67){ in(v0); out(v0); }}
+-0.1, program{ out(1); }
+-0.0,
+
+program{
+    in(v0);
+    if(!v0!=70>72){
+        in(v1);
+        if(!v0*v1){
+            out(1);
+         }
+     }
+     out(v0);
+ }

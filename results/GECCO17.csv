@@ -1,0 +1,999 @@
+-175.0, program{ in(v0); out(v0); }
+-175.0, program{ if(v0!=v1){ out(47); in(v1); }in(v2); out(v2); v2=v3; }
+-175.0, program{ in(v0); out(v0); while(v0+5){ v1=v0; }}
+-175.0, program{ in(v0); out(v0); }
+-175.0, program{ in(v0); out(v0); while(v1&&v0){ out(v0); }}
+-175.0, program{ in(v0); out(v0); }
+-175.0, program{ if(v0!=v1){ out(47); in(v1); }in(v2); out(v2); v2=v3; }
+-175.0, program{ in(v0); out(v0); }
+-175.0, program{ in(v0); out(v0); while(!89){ in(v1); }}
+-175.0, program{ if(33||55){ in(v0); in(v1); }out(v0); }
+-175.0, program{ if(v0!=v1){ out(47); in(v1); }in(v2); out(v2); v2=v3; }
+-175.0, program{ in(v0); out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-161.0, program{ in(v0); v0=33+v0; out(v0); }
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-157.0, program{ in(v0); v1=6+v0; out(v1); in(v1); while(v1*v1){ in(v2); }}
+-105.0, program{ while(!v0){ in(v0); }v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ while(!v0){ in(v0); }v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ while(!v0){ in(v0); }v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}
+-105.0, program{ in(v0); v1=50||70; v1=v0*v0; in(v2); out(v1); if(v0/91){ out(82); }if(0*67){ out(v0); }}

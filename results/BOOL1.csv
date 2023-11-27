@@ -1,0 +1,5 @@
+-2.0, program{ in(v0); out(v0); }
+-2.0, program{ in(v0); if(!v1){ v2=72; }in(v1); if(v3<2+56*v3!=5){ out(v0); }while(2+v0/v2==v1-95||v1){ in(v0); }in(v2); out(v1); }
+-2.0, program{ in(v0); if(!v1){ v2=72; }in(v1); if(v3<2+56*v3!=5){ out(v0); }while(2+v0/v2==v1-95||v1){ in(v0); }in(v2); out(v1); }
+-2.0, program{ in(v0); out(v0); v1=v0; }
+-0.0, program{ if(6||52<11+v0<42){ in(v0); }v0=v1==v0; v1=v1; out(v0); }
